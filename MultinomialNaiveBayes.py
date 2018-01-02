@@ -1,3 +1,5 @@
+# Based on the algorithm as defined at https://nlp.stanford.edu/IR-book/html/htmledition/naive-bayes-text-classification-1.html
+
 import numpy as np
 import math
 
